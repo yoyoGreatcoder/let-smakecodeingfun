@@ -27,5 +27,5 @@ This project aims for a fun way to learn to code we are trying to make an effort
 Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
-
+Pls if you want to contribute some code example's [contribute it here](https://github.com/yoyoGreatcoder/some-example-codes-for-tfc/tree/main)
 Please adhere to this project's `code of conduct`.
